@@ -1,0 +1,23 @@
+.App-header {
+    background-color: #222;
+    height: 60px;
+    padding: 20px;
+    color: white;
+  }
+
+  .header-cont {
+    width: 1030px;
+    margin: 0 auto;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+    width: 200px;
+    float: left;
+  }
+  .nav-link {
+      float: left;
+      color: #fff;
+      margin: 22px 15px;
+      text-decoration: none;
+  }
